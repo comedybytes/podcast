@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>Comedy Bytes</title>
+    <atom:link href="https://feed.podbean.com/comedybytes/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://comedybytes.podbean.com</link>
+    <description>An AI-powered micro-podcast of original comedy</description>
+    <pubDate>Sun, 10 Sep 2023 07:23:55 -0400</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+        <copyright>Copyright 2023 All rights reserved.</copyright>
+    <category>Comedy:Stand-Up</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>A comedy micropodcast</itunes:subtitle>
+          <itunes:summary>An AI-powered micro-podcast of original comedy</itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+	<itunes:category text="Comedy">
+		<itunes:category text="Stand-Up" />
+	</itunes:category>
+<itunes:category text="Comedy" />
+    <itunes:owner>
+        <itunes:name>Sergio Georgini</itunes:name>
+            </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/16386036/Cry-Laugh-Emoji-PNG-Image_v2ehdp.png" />
+    <image>
+        <url>https://deow9bq0xqvbj.cloudfront.net/image-logo/16386036/Cry-Laugh-Emoji-PNG-Image_v2ehdp.png</url>
+        <title>Comedy Bytes</title>
+        <link>https://comedybytes.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>Superpowers</title>
+        <itunes:title>Superpowers</itunes:title>
+        <link>https://comedybytes.podbean.com/e/superpowers/</link>
+                    <comments>https://comedybytes.podbean.com/e/superpowers/#comments</comments>        <pubDate>Sun, 10 Sep 2023 07:23:55 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/16f55d35-7612-31bd-8135-954dfa123b93</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/6g2vxb/comedy_bytes_29_superpowers.mp3" length="314507" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:29</itunes:duration>
+                <itunes:episode>29</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Political Speeches</title>
+        <itunes:title>Political Speeches</itunes:title>
+        <link>https://comedybytes.podbean.com/e/political-speeches/</link>
+                    <comments>https://comedybytes.podbean.com/e/political-speeches/#comments</comments>        <pubDate>Sun, 03 Sep 2023 08:32:54 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/af0c6d65-07c2-3ab4-ba7d-0ec30e737040</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/8ynzc2/comedy_bytes_27_political_speeches.mp3" length="206904" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:22</itunes:duration>
+                <itunes:episode>27</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Coffee Enemas</title>
+        <itunes:title>Coffee Enemas</itunes:title>
+        <link>https://comedybytes.podbean.com/e/coffee-enemas/</link>
+                    <comments>https://comedybytes.podbean.com/e/coffee-enemas/#comments</comments>        <pubDate>Sun, 27 Aug 2023 08:01:16 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/d6d5d6fe-b18b-34f3-a653-3e988aac240b</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/c5kg4x/comedy_bytes_episode_17_coffee_enemas.mp3" length="349991" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:33</itunes:duration>
+                <itunes:episode>17</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Speed Traps</title>
+        <itunes:title>Speed Traps</itunes:title>
+        <link>https://comedybytes.podbean.com/e/speed-traps/</link>
+                    <comments>https://comedybytes.podbean.com/e/speed-traps/#comments</comments>        <pubDate>Sun, 20 Aug 2023 07:45:27 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/cfa09955-1258-3240-aba4-204f19a03055</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/56fdk2/comedy_bytes_20_speed_traps.mp3" length="421567" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:44</itunes:duration>
+                <itunes:episode>20</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Make Some Noise</title>
+        <itunes:title>Make Some Noise</itunes:title>
+        <link>https://comedybytes.podbean.com/e/make-some-noise/</link>
+                    <comments>https://comedybytes.podbean.com/e/make-some-noise/#comments</comments>        <pubDate>Sun, 13 Aug 2023 07:53:39 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/66ca489f-f431-377a-a953-7f0fba64f216</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/5fbrrj/comedy_bytes_episode_11_make_some_noise.mp3" length="263515" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:25</itunes:duration>
+                <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Oil Change</title>
+        <itunes:title>Oil Change</itunes:title>
+        <link>https://comedybytes.podbean.com/e/oil-change/</link>
+                    <comments>https://comedybytes.podbean.com/e/oil-change/#comments</comments>        <pubDate>Sun, 06 Aug 2023 07:32:38 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/2766c829-2724-3fc4-9b25-98d81dc6d3df</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/gcweg8/comedy_bytes_26_oil_change.mp3" length="370929" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:37</itunes:duration>
+                <itunes:episode>26</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Medieval Executioners</title>
+        <itunes:title>Medieval Executioners</itunes:title>
+        <link>https://comedybytes.podbean.com/e/medieval-executioners/</link>
+                    <comments>https://comedybytes.podbean.com/e/medieval-executioners/#comments</comments>        <pubDate>Sun, 30 Jul 2023 07:28:33 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/57670624-a31d-3267-a093-da6cf200da8a</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/43ym5x/comedy_bytes_22_medieval_executioner.mp3" length="297914" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:29</itunes:duration>
+                <itunes:episode>22</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Bucket List</title>
+        <itunes:title>Bucket List</itunes:title>
+        <link>https://comedybytes.podbean.com/e/bucket-list/</link>
+                    <comments>https://comedybytes.podbean.com/e/bucket-list/#comments</comments>        <pubDate>Sun, 23 Jul 2023 07:49:16 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/fb2a9f8f-9f6c-3acb-b105-e330a505e0b9</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/stte99/comedy_bytes_episode_18_bucket_list.mp3" length="405186" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:34</itunes:duration>
+                <itunes:episode>18</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Steve Irwin</title>
+        <itunes:title>Steve Irwin</itunes:title>
+        <link>https://comedybytes.podbean.com/e/steve-irwin/</link>
+                    <comments>https://comedybytes.podbean.com/e/steve-irwin/#comments</comments>        <pubDate>Sun, 16 Jul 2023 10:57:24 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/2f4232c0-a591-36fe-8b87-443d7c2cfa87</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/whiwe2/comedy_bytes_19_steve_irwin.mp3" length="491262" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:47</itunes:duration>
+                <itunes:episode>19</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Aircraft Carriers</title>
+        <itunes:title>Aircraft Carriers</itunes:title>
+        <link>https://comedybytes.podbean.com/e/aircraft-carriers/</link>
+                    <comments>https://comedybytes.podbean.com/e/aircraft-carriers/#comments</comments>        <pubDate>Sun, 09 Jul 2023 08:50:27 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/22b4b091-e9ab-3235-89f6-4cbaf17b9757</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/kqkym9/comedy_bytes_episode_15_aircraft_carriers.mp3" length="397778" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:36</itunes:duration>
+                <itunes:episode>15</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Air Force One</title>
+        <itunes:title>Air Force One</itunes:title>
+        <link>https://comedybytes.podbean.com/e/air-force-one/</link>
+                    <comments>https://comedybytes.podbean.com/e/air-force-one/#comments</comments>        <pubDate>Sun, 02 Jul 2023 07:49:16 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/9f93ad73-71cc-3fb9-91fd-2aaf8758b6a5</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/963ru6/comedy_bytes_episode_13_air_force_one.mp3" length="189694" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:17</itunes:duration>
+                <itunes:episode>13</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>The Human Condition</title>
+        <itunes:title>The Human Condition</itunes:title>
+        <link>https://comedybytes.podbean.com/e/the-human-condition/</link>
+                    <comments>https://comedybytes.podbean.com/e/the-human-condition/#comments</comments>        <pubDate>Sun, 25 Jun 2023 08:05:10 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/46f56f19-70a5-3b53-a635-6802e7378eed</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/f3btt8/comedy_bytes_episode_16_the_human_condition.mp3" length="290478" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:25</itunes:duration>
+                <itunes:episode>16</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Drunk Driving</title>
+        <itunes:title>Drunk Driving</itunes:title>
+        <link>https://comedybytes.podbean.com/e/drunk-driving/</link>
+                    <comments>https://comedybytes.podbean.com/e/drunk-driving/#comments</comments>        <pubDate>Sun, 18 Jun 2023 09:01:02 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/0f3da4ea-f502-357b-8a89-8be8d23b538e</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/j5dyrm/comedy_bytes_episode_12_drunk_driving.mp3" length="285633" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:25</itunes:duration>
+                <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Now That I Think About It</title>
+        <itunes:title>Now That I Think About It</itunes:title>
+        <link>https://comedybytes.podbean.com/e/now-that-i-think-about-it/</link>
+                    <comments>https://comedybytes.podbean.com/e/now-that-i-think-about-it/#comments</comments>        <pubDate>Sun, 11 Jun 2023 11:00:40 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/aded1a69-ea00-332c-a074-65f23380a919</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/yx38a8/comedy_bytes_episode_9_now_that_I_think_about_it.mp3" length="499009" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:43</itunes:duration>
+                <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Poker Tells</title>
+        <itunes:title>Poker Tells</itunes:title>
+        <link>https://comedybytes.podbean.com/e/poker-tells/</link>
+                    <comments>https://comedybytes.podbean.com/e/poker-tells/#comments</comments>        <pubDate>Sun, 04 Jun 2023 14:36:07 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/631200cd-aac3-346c-91cf-ec383a8ca191</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/hhv2z6/comedy_bytes_episode_8_poker_tells.mp3" length="632799" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:57</itunes:duration>
+                <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Memorial Day</title>
+        <itunes:title>Memorial Day</itunes:title>
+        <link>https://comedybytes.podbean.com/e/memorial-day/</link>
+                    <comments>https://comedybytes.podbean.com/e/memorial-day/#comments</comments>        <pubDate>Sat, 27 May 2023 08:44:08 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/941d2672-ef6b-30f9-b904-32058579dc99</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/up9hni/comedy_bytes_episode_7_memorial_day.mp3" length="306320" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:32</itunes:duration>
+                <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Trail Mix</title>
+        <itunes:title>Trail Mix</itunes:title>
+        <link>https://comedybytes.podbean.com/e/trail-mix/</link>
+                    <comments>https://comedybytes.podbean.com/e/trail-mix/#comments</comments>        <pubDate>Sat, 20 May 2023 12:21:06 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/b4fb4840-5ca5-32d0-b91e-67439f3aecd0</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/zmczvg/comedy_bytes_episode_10_trail_mix.mp3" length="117165" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:10</itunes:duration>
+                <itunes:episode>10</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Dog’s Business</title>
+        <itunes:title>Dog’s Business</itunes:title>
+        <link>https://comedybytes.podbean.com/e/dog-s-business/</link>
+                    <comments>https://comedybytes.podbean.com/e/dog-s-business/#comments</comments>        <pubDate>Thu, 18 May 2023 09:17:28 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/fb820950-11ec-31bf-a1b4-66eb72bb1515</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/hw5kme/comedy_bytes_episode_6_dogs_business.mp3" length="135946" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:15</itunes:duration>
+                <itunes:episode>6</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Celebrities</title>
+        <itunes:title>Celebrities</itunes:title>
+        <link>https://comedybytes.podbean.com/e/celebrities/</link>
+                    <comments>https://comedybytes.podbean.com/e/celebrities/#comments</comments>        <pubDate>Mon, 15 May 2023 16:08:12 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/a8cc0cd2-6c58-3292-91ec-43c172ad9329</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/mwmyn9/comedy_bytes_episode_5_celebrities.mp3" length="131454" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:14</itunes:duration>
+                <itunes:episode>5</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>American Culture</title>
+        <itunes:title>American Culture</itunes:title>
+        <link>https://comedybytes.podbean.com/e/american-culture/</link>
+                    <comments>https://comedybytes.podbean.com/e/american-culture/#comments</comments>        <pubDate>Tue, 09 May 2023 18:53:06 -0400</pubDate>
+        <guid isPermaLink="false">comedybytes.podbean.com/7469ac14-4df8-337a-b42e-088ba58a6558</guid>
+                      <description><![CDATA[]]></description>
+                      <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/6gpuhb/comedy_bytes_episode_4_american_culture.mp3" length="258790" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[]]></itunes:summary>
+        <itunes:author>Sergio Georgini</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:29</itunes:duration>
+                <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+</channel>
+</rss>
